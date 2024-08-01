@@ -1,11 +1,11 @@
 # Sales-distribution-in-Excel
 Summaries and answers from the pivot tables and designing the data graphics in a dashboard for easy communication and reading of the information as well
 
-# **📊 Showcasing My Latest Data Analytics Project in Excel! 📈**
+## **📊 Showcasing My Latest Data Analytics Project in Excel! 📈** 
 
 I'm thrilled to share my recent data analytics project, where I utilized Excel to answer key business questions through pivot tables, pivot charts, and powerful data visualizations. This project not only honed my analytical abilities but also demonstrated the impact of data-driven insights on business decisions.
 
-# 🔍 Project Overview
+## **🔍 Project Overview
 In this comprehensive project, I followed a structured approach to analyze and visualize data:
 
 ### **Understand the Data: Thoroughly examined the dataset to grasp its structure and contents.** ###
