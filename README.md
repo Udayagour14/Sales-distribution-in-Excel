@@ -39,11 +39,11 @@ What is the lowest profitable product that we sell?
 Highlighted the product with the lowest profitability to explore improvement opportunities.
 Customer Experience
 9. On average, how long does it take for orders to reach our clients? Based on each Shipping Mode
-
+![image alt](https://github.com/Udayagour14/Sales-distribution-in-Excel/blob/main/excel2.png)
 ### **Analyzed delivery times to understand the efficiency of different shipping modes.** ###
 📈 Visualizations and Findings
 To answer these questions, I designed numerous pivot tables and pivot charts, transforming raw data into compelling visual insights. These visualizations included bar charts, line graphs, and pie charts, making it easy to interpret the data and draw actionable conclusions.
-
+![image alt](https://github.com/Udayagour14/Sales-distribution-in-Excel/blob/main/excel3.png)
 💼 Skills Demonstrated
 Data Cleaning and Preparation: Ensured data accuracy and consistency with Power Query.
 Pivot Tables and Charts: Utilized pivot tables for dynamic analysis and pivot charts for clear visualizations.
@@ -51,9 +51,5 @@ Data Modeling: Added measures and calculated columns to support detailed analysi
 Data Interpretation: Extracted meaningful insights to drive business strategies.
 📢 Why This Matters
 This project highlights my proficiency in using Excel for data analytics and visualization. It showcases my ability to convert complex data into valuable insights, essential for informed decision-making.
-
-Check out some snapshots of my work!
-
-![image alt](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/d96fa2bf5410023afc0b13ff86cdfc391dfe52df/5.-Customer.png)
 
 I'm eager to apply these skills in a professional setting and contribute to data-driven decision-making processes. Feel free to reach out if you'd like to discuss my work or explore potential opportunities!
