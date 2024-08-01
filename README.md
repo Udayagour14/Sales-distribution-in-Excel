@@ -8,10 +8,10 @@ I'm thrilled to share my recent data analytics project, where I utilized Excel t
 # 🔍 Project Overview
 In this comprehensive project, I followed a structured approach to analyze and visualize data:
 
-Understand the Data: Thoroughly examined the dataset to grasp its structure and contents.
-Clean the Data: Used Power Query to clean and prepare the data for analysis.
-Insert Calculations and Columns: Calculated important metrics like COGS (cost of goods sold) using Power Query.
-Modeling the Data: Created new measures and columns to facilitate in-depth analysis.
+### **Understand the Data: Thoroughly examined the dataset to grasp its structure and contents.** ###
+### **Clean the Data: Used Power Query to clean and prepare the data for analysis.** ###
+### **Insert Calculations and Columns: Calculated important metrics like COGS (cost of goods sold) using Power Query.** ###
+### **Modeling the Data: Created new measures and columns to facilitate in-depth analysis.** ###
 🔧 Key Questions and Insights
 To Enhance Customer Loyalty
 
@@ -38,7 +38,7 @@ Highlighted the product with the lowest profitability to explore improvement opp
 Customer Experience
 9. On average, how long does it take for orders to reach our clients? Based on each Shipping Mode
 
-Analyzed delivery times to understand the efficiency of different shipping modes.
+### **Analyzed delivery times to understand the efficiency of different shipping modes.** ###
 📈 Visualizations and Findings
 To answer these questions, I designed numerous pivot tables and pivot charts, transforming raw data into compelling visual insights. These visualizations included bar charts, line graphs, and pie charts, making it easy to interpret the data and draw actionable conclusions.
 
@@ -50,6 +50,8 @@ Data Interpretation: Extracted meaningful insights to drive business strategies.
 📢 Why This Matters
 This project highlights my proficiency in using Excel for data analytics and visualization. It showcases my ability to convert complex data into valuable insights, essential for informed decision-making.
 
-Check out some snapshots of my work below! [Include snapshots of your pivot tables, pivot charts, and key visualizations]
+Check out some snapshots of my work!
+
+![image alt](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/d96fa2bf5410023afc0b13ff86cdfc391dfe52df/5.-Customer.png)
 
 I'm eager to apply these skills in a professional setting and contribute to data-driven decision-making processes. Feel free to reach out if you'd like to discuss my work or explore potential opportunities!
