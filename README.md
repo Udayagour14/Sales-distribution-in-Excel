@@ -30,7 +30,7 @@ Evaluated state-wise sales performance to identify the highest revenue-generatin
 Performance Measurement
 6. What are the top-performing product categories in terms of sales and profit?
 
-![image alt](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/d96fa2bf5410023afc0b13ff86cdfc391dfe52df/excel1.png)
+![image alt](https://github.com/Udayagour14/Sales-distribution-in-Excel/blob/main/excel1.png)
 
 Assessed product categories to pinpoint those that drive the most sales and profit.
 What is the most profitable product that we sell?
