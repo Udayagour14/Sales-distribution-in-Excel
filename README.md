@@ -43,7 +43,12 @@ Customer Experience
 ### **Analyzed delivery times to understand the efficiency of different shipping modes.** ###
 📈 Visualizations and Findings
 To answer these questions, I designed numerous pivot tables and pivot charts, transforming raw data into compelling visual insights. These visualizations included bar charts, line graphs, and pie charts, making it easy to interpret the data and draw actionable conclusions.
-![image alt](https://github.com/Udayagour14/Sales-distribution-in-Excel/blob/main/excel3.png)
+### Includes Distribution/sales/KPI Dashboard
+![image alt](https://github.com/Udayagour14/Sales-distribution-in-Excel/blob/main/excel%20dash1.png)
+![image alt](https://github.com/Udayagour14/Sales-distribution-in-Excel/blob/main/excel%20dash2.png)
+![image alt](https://github.com/Udayagour14/Sales-distribution-in-Excel/blob/main/excel%20dash3.png)
+
+
 💼 Skills Demonstrated
 Data Cleaning and Preparation: Ensured data accuracy and consistency with Power Query.
 Pivot Tables and Charts: Utilized pivot tables for dynamic analysis and pivot charts for clear visualizations.
